@@ -1,5 +1,5 @@
-<h2 align="left">Hey there! 👋 I'm Aviral Chauhan, pursuing a Bachelor's Degree in Computer Science Engineering.
-I'm a passionate web developer with expertise in various languages and technologies. Currently diving deep into AWS</h2>
+<p align="left">Hey there! 👋 I'm Aviral Chauhan, pursuing a Bachelor's Degree in Computer Science Engineering.
+I'm a passionate web developer with expertise in various languages and technologies. Currently diving deep into AWS</p>
 
 ###
 
