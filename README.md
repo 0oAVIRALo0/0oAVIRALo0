@@ -11,11 +11,11 @@ Hey there! 👋 I'm Aviral Chauhan, pursuing a Bachelor's Degree in Computer Sci
 <div style="display: flex; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=0oAVIRALo0&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="200" width="400">
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0oAVIRALo0&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="200" width="400"> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0oAVIRALo0&theme=dark&hide_border=false" height="200" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0oAVIRALo0&theme=dark&hide_border=false" height="300" width="400">
 </div>
 
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies -->
 <!-- ![](https://github-profile-trophy.vercel.app/?username=0oAVIRALo0&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 
 ### ✍️ Random Dev Quote
