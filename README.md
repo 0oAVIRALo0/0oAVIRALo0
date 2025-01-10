@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! 👋 I'm Aviral Chauhan, a Computer Science Engineering student with a strong passion for web development. I have expertise in various languages and technologies, with a solid understanding of React, Node.js, Express,js, and both SQL and NoSQL databases. Currently, I'm diving deep into AWS to further enhance my skills and knowledge.
+Hey there! 👋 I'm Aviral Chauhan, a Computer Science Engineering student with a strong passion for web development. I have expertise in various languages and technologies, with a solid understanding of React, Node.js, Express,js, and both SQL and NoSQL databases. Currently, I'm diving deep into DevOps to further enhance my skills and knowledge.
 
 
 <!-- ## 🌐 Socials: -->
